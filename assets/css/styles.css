@@ -376,27 +376,27 @@ section div h1 span.cursor.typing {
   z-index: var(--z-back);
 }
 .skills__html {
-  width: 80%;
+  width: 85%;
   background-color: #e34c26;
 }
 .skills__css {
-  width: 60%;
+  width: 70%;
   background-color: #264de4;
 }
 .skills__js {
-  width: 20%;
+  width: 50%;
   background-color: #f0db4f;
 }
 .skills__php {
-  width: 40%;
+  width: 60%;
   background-color: #787cb5;
 }
 .skills__laravel {
-  width: 40%;
+  width: 50%;
   background-color: #f05340;
 }
 .skills__ux {
-  width: 60%;
+  width: 80%;
   background-color: #34f5c5;
 }
 .skills__img {
